@@ -5,7 +5,8 @@ This project analyzes the Superstore dataset using Tableau to identify key profi
 
 ## Tableau Public Dashboard
 🔗 View the interactive Tableau analysis here:
-https://public.tableau.com/views/SuperstoreProfitabilityAnalysis_17658678767250
+[https://public.tableau.com/views/SuperstoreProfitabilityAnalysis_17658678767250
+](https://public.tableau.com/views/SuperstoreProfitabilityAnalysis_17658678767250/TopProfitCentersandLoss-MakersSub-CategoryState?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights
 - Identified the strongest profit centers and largest loss-makers using paired dimensions.
